@@ -1,6 +1,6 @@
 # Kullanım Koşulları ve Gizlilik Sözleşmesi
 
-**Son Güncelleme:** 1 Ocak 2026
+**Son Güncelleme:** 14 Nisan 2026
 
 ## 1. KABUL
 Locus uygulamasını ("Uygulama") kullanarak bu Kullanım Koşulları ve Gizlilik Sözleşmesini ("Sözleşme") okuduğunuzu, anladığınızı ve kabul ettiğinizi beyan edersiniz. Bu şartları kabul etmiyorsanız lütfen Uygulamayı kullanmayın.
