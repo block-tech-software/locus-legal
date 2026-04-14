@@ -1,6 +1,6 @@
 # Terms of Use and Privacy Policy
 
-**Last Updated:** January 1, 2026
+**Last Updated:** April 14, 2026
 
 ## 1. ACCEPTANCE
 By using the Locus application ("App") you acknowledge that you have read, understood, and agreed to these Terms of Use and Privacy Policy ("Agreement"). If you do not accept these terms, please do not use the App.
