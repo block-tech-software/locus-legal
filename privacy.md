@@ -57,7 +57,7 @@ This Agreement is governed by the laws of the Republic of Türkiye. Disputes sha
 We may update this Agreement from time to time. We will notify you within the App when significant changes are made.
 
 ## 15. CONTACT
-For questions or data deletion requests, please contact us at **canmustu@gmail.com**.
+For questions or data deletion requests, please contact us at **locus@dejavusoft.dev**.
 
 ---
 
