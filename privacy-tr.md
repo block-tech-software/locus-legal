@@ -57,7 +57,7 @@ Bu Sözleşme Türkiye Cumhuriyeti hukukuna tabidir. Uyuşmazlıklarda İstanbul
 Bu Sözleşmeyi zaman zaman güncelleyebiliriz. Önemli değişiklikler olduğunda sizi Uygulama içinden bilgilendireceğiz.
 
 ## 15. İLETİŞİM
-Sorularınız veya veri silme talepleriniz için **canmustu@gmail.com** adresinden bize ulaşabilirsiniz.
+Sorularınız veya veri silme talepleriniz için **locus@dejavusoft.dev** adresinden bize ulaşabilirsiniz.
 
 ---
 
